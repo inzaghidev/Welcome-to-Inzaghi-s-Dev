@@ -51,7 +51,7 @@ Inzaghi's Sites merupakan Platform Layanan Situs Web untuk dapat diakses ke semu
 Inzaghi's Media merupakan Platform Layanan untuk Sharing Ilmu, terutama seputar IT. Inilah beberapa Akun kami di Media Sosial :
 * **Instagram :** Sebagai Postingan berbentuk Gambar Persegi dan sebagai Asisten dari Inzaghi's Blog. Dibuat pada Tanggal 9 Juni 2023 (20 Dzulqa'dah 1444 H).\
   Akun : [@enzapost](https://www.instagram.com/enzapost)
-* **TikTok :** Sebagai Postingan berbentuk Video Vertikal (Portrait) yang dapat di-Scrolling dan agar masuk ke dalam FYP dan juga kebanyakan adalah Video Tutorial.\ Dibuat pada Tanggal 11 Juli 2023 (22 Dzulhijjah 1444 H).
+* **TikTok :** Sebagai Postingan berbentuk Video Vertikal (Portrait) yang dapat di-Scrolling dan agar masuk ke dalam FYP dan juga kebanyakan adalah Video Tutorial. Dibuat pada Tanggal 11 Juli 2023 (22 Dzulhijjah 1444 H).
   Akun : [@enzapostmedia](https://www.tiktok.com/@enzapostmedia)
 * **YouTube :** Sebagai sebuah Channel yang berbentuk Video seperti Tutorial, dan dibuat pada Tanggal 11 Juli 2023 (22 Dzulhijjah 1444 H).\
   Akun : [Inzaghi's Media](https://www.youtube.com/@enzavlogpost)
