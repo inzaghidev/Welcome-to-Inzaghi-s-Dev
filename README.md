@@ -26,11 +26,11 @@ Adapun, beberapa Layanan lainnya selain Inzaghi's Dev, di antaranya :
 ![Inzaghi's Blog with Collaborator Platforms](/images/inzaghis-blog-with-collabolator-platforms.png)
 
 Inzaghi's Blog merupakan Platform Blogging sebagai tempat untuk berbagi Ilmu Pengetahuan, terutama seputar IT. Inzaghi's Blog lebih menggunakan Platform Blogger, agar lebih mudah dan praktis. Inilah beberapa Link dari Inzaghi's Blog :
-* **Inzaghi's Blog (Legacy) :** Merupakan Blog Lama yang sudah tersedia sejak Tanggal 10 Januari 2018 (21 Rabi'ul Akhir 1439 H). Inzaghi's Blog Lama/Legacy ini adalah tempat untuk memposting apapun itu.
+* **Inzaghi's Blog (Legacy) :** Merupakan Blog Lama yang sudah tersedia sejak Tanggal 10 Januari 2018 (21 Rabi'ul Akhir 1439 H). Inzaghi's Blog Lama/Legacy ini adalah tempat untuk memposting apapun itu.\
   Link : [inzaghiposuma.blogspot.com](https://inzaghiposuma.blogspot.com)
-* **Teknoblog (enzatech) :** Merupakan Pindahan dari Blog Lama yang bernama Inzaghi's Blog (Legacy) dan dibuat sejak Tanggal 2 Juni 2023 (13 Dzulqa'dah 1444 H).
+* **Teknoblog (enzatech) :** Merupakan Pindahan dari Blog Lama yang bernama Inzaghi's Blog (Legacy) dan dibuat sejak Tanggal 2 Juni 2023 (13 Dzulqa'dah 1444 H).\
   Link : [enzatech.blogspot.com](https://enzatech.blogspot.com)
-* **Miniblog (enzashorts) :** Merupakan Blog khusus Microblogging, terutama untuk menyimpan Postingan Sederhana seperti Kode Program Sederhana, hingga Teks dan Puisi. Miniblog telah dibuat sejak Tanggal 15 Juni 2023 (26 Dzulhijjah 1444 H).
+* **Miniblog (enzashorts) :** Merupakan Blog khusus Microblogging, terutama untuk menyimpan Postingan Sederhana seperti Kode Program Sederhana, hingga Teks dan Puisi. Miniblog telah dibuat sejak Tanggal 15 Juni 2023 (26 Dzulhijjah 1444 H).\
   Link : [enzashorts.blogspot.com](https://enzashorts.blogspot.com)
 
 2. Inzaghi's Sites
@@ -38,9 +38,9 @@ Inzaghi's Blog merupakan Platform Blogging sebagai tempat untuk berbagi Ilmu Pen
 ![Inzaghi's Sites with Collaborator Platforms](/images/inzaghis-sites-with-collabolator-platforms.png)
 
 Inzaghi's Sites merupakan Platform Layanan Situs Web untuk dapat diakses ke semua layanan Inzaghi's Group. Adapun, beberapa Platform yang digunakan adalah :
-* **Google Sites :** Sebagai Website kami yang lama yang telah menyimpan banyak sekali Arip-arsip Artikel Blog dari Inzaghi's Blog yang Lama. Inzaghi's Sites Lama telah ada sejak Tanggal 7 Maret 2019 (30 Jumadil Akhir 1440 H).
+* **Google Sites :** Sebagai Website kami yang lama yang telah menyimpan banyak sekali Arip-arsip Artikel Blog dari Inzaghi's Blog yang Lama. Inzaghi's Sites Lama telah ada sejak Tanggal 7 Maret 2019 (30 Jumadil Akhir 1440 H).\
   Link : [sites.google.com/inzaghis-sites](https://sites.google.com/view/inzaghis-sites)
-* **WordPress :** Merupakan Pindahan dari sebagian Konten yang ada di Website kami yang lama di Google Sites. Dikarenakan WordPress banyak Fitur yang tidak bisa digunakan dengan Akun Gratis, Website kami di WordPress hanya untuk Arsip-arsip Artikel saja. Dibuat sejak Tanggal 4 Juli 2023 (15 Dzulhijjah 1444 H).
+* **WordPress :** Merupakan Pindahan dari sebagian Konten yang ada di Website kami yang lama di Google Sites. Dikarenakan WordPress banyak Fitur yang tidak bisa digunakan dengan Akun Gratis, Website kami di WordPress hanya untuk Arsip-arsip Artikel saja. Dibuat sejak Tanggal 4 Juli 2023 (15 Dzulhijjah 1444 H).\
   Link : [inzaghiposuma.wordpress.com](https://inzaghiposuma.wordpress.com)
 * **Webflow :** COMING SOON
 
@@ -49,11 +49,11 @@ Inzaghi's Sites merupakan Platform Layanan Situs Web untuk dapat diakses ke semu
 ![Inzaghi's Media with Collaborator Platforms](/images/inzaghis-media-with-collabolator-platforms.png)
 
 Inzaghi's Media merupakan Platform Layanan untuk Sharing Ilmu, terutama seputar IT. Inilah beberapa Akun kami di Media Sosial :
-* **Instagram :** Sebagai Postingan berbentuk Gambar Persegi dan sebagai Asisten dari Inzaghi's Blog. Dibuat pada Tanggal 9 Juni 2023 (20 Dzulqa'dah 1444 H).
+* **Instagram :** Sebagai Postingan berbentuk Gambar Persegi dan sebagai Asisten dari Inzaghi's Blog. Dibuat pada Tanggal 9 Juni 2023 (20 Dzulqa'dah 1444 H).\
   Akun : [@enzapost](https://www.instagram.com/enzapost)
-* **TikTok :** Sebagai Postingan berbentuk Video Vertikal (Portrait) yang dapat di-Scrolling dan agar masuk ke dalam FYP dan juga kebanyakan adalah Video Tutorial. Dibuat pada Tanggal 11 Juli 2023 (22 Dzulhijjah 1444 H).
+* **TikTok :** Sebagai Postingan berbentuk Video Vertikal (Portrait) yang dapat di-Scrolling dan agar masuk ke dalam FYP dan juga kebanyakan adalah Video Tutorial.\ Dibuat pada Tanggal 11 Juli 2023 (22 Dzulhijjah 1444 H).
   Akun : [@enzapostmedia](https://www.tiktok.com/@enzapostmedia)
-* **YouTube :** Sebagai sebuah Channel yang berbentuk Video seperti Tutorial, dan dibuat pada Tanggal 11 Juli 2023 (22 Dzulhijjah 1444 H).
+* **YouTube :** Sebagai sebuah Channel yang berbentuk Video seperti Tutorial, dan dibuat pada Tanggal 11 Juli 2023 (22 Dzulhijjah 1444 H).\
   Akun : [Inzaghi's Media](https://www.youtube.com/@enzavlogpost)
 
 Untuk Inzaghi's Group sendiri, kami juga memiliki Linktree berikut ini :
