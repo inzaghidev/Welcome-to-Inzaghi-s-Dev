@@ -23,13 +23,19 @@ Adapun, beberapa Layanan lainnya selain Inzaghi's Dev, di antaranya :
 
 1. Inzaghi's Blog
 
+![Inzaghi's Blog with Collaborator Platforms](/images/inzaghis-blog-with-collabolator-platforms.png)
+
 Inzaghi's Blog merupakan Platform Blogging sebagai tempat untuk berbagi Ilmu Pengetahuan, terutama seputar IT. Inzaghi's Blog lebih menggunakan Platform Blogger, agar lebih mudah dan praktis.
 
 2. Inzaghi's Sites
 
+![Inzaghi's Sites with Collaborator Platforms](/images/inzaghis-sites-with-collabolator-platforms.png)
+
 Inzaghi's Sites merupakan Platform Layanan Situs Web untuk dapat diakses ke semua layanan Inzaghi's Group.
 
 3. Inzaghi's Media
+
+![Inzaghi's Media with Collaborator Platforms](/images/inzaghis-media-with-collabolator-platforms.png)
 
 Inzaghi's Media merupakan Platform Layanan untuk Sharing Ilmu, terutama seputar IT.
 \
