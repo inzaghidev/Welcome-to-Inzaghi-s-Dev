@@ -30,7 +30,7 @@ Inzaghi's Blog merupakan Platform Blogging sebagai tempat untuk berbagi Ilmu Pen
   Link : [inzaghiposuma.blogspot.com](https://inzaghiposuma.blogspot.com)
 * **Teknoblog (enzatech) :** Merupakan Pindahan dari Blog Lama yang bernama Inzaghi's Blog (Legacy) dan dibuat sejak Tanggal 2 Juni 2023 (13 Dzulqa'dah 1444 H).\
   Link : [enzatech.blogspot.com](https://enzatech.blogspot.com)
-* **Miniblog (enzashorts) :** Merupakan Blog khusus Microblogging, terutama untuk menyimpan Postingan Sederhana seperti Kode Program Sederhana, hingga Teks dan Puisi. Miniblog telah dibuat sejak Tanggal 15 Juni 2023 (26 Dzulhijjah 1444 H).\
+* **Miniblog (enzashorts) :** Merupakan Blog khusus Microblogging, terutama untuk menyimpan Postingan Sederhana seperti Kode Program Sederhana, hingga Teks dan Puisi. Miniblog telah dibuat sejak Tanggal 15 Juli 2023 (26 Dzulhijjah 1444 H).\
   Link : [enzashorts.blogspot.com](https://enzashorts.blogspot.com)
 
 2. Inzaghi's Sites
