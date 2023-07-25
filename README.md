@@ -40,10 +40,10 @@ Inzaghi's Blog merupakan Platform Blogging sebagai tempat untuk berbagi Ilmu Pen
 Inzaghi's Sites merupakan Platform Layanan Situs Web untuk dapat diakses ke semua layanan Inzaghi's Group. Adapun, beberapa Platform yang digunakan adalah :
 * **Google Sites :** Sebagai Website kami yang lama yang telah menyimpan banyak sekali Arip-arsip Artikel Blog dari Inzaghi's Blog yang Lama. Inzaghi's Sites Lama telah ada sejak Tanggal 7 Maret 2019 (30 Jumadil Akhir 1440 H).\
   Link : [sites.google.com/inzaghis-sites](https://sites.google.com/view/inzaghis-sites)
-* **WordPress :** Merupakan Pindahan dari sebagian Konten yang ada di Website kami yang lama di Google Sites. Dikarenakan WordPress banyak Fitur yang tidak bisa digunakan dengan Akun Gratis, Website kami di WordPress hanya untuk Arsip-arsip Artikel saja. Dibuat sejak Tanggal 4 Juli 2023 (15 Dzulhijjah 1444 H).\
+* **WordPress :** Merupakan Pindahan dari sebagian Konten yang ada di Website kami yang lama di Google Sites. Dikarenakan WordPress banyak Fitur yang tidak bisa digunakan dengan Akun Gratis, Website kami di WordPress hanya untuk Arsip-arsip Artikel dan Blog saja. Dibuat sejak Tanggal 4 Juli 2023 (15 Dzulhijjah 1444 H).\
   Link : [inzaghiposuma.wordpress.com](https://inzaghiposuma.wordpress.com)
-* **Webflow :** COMING SOON
-
+* **Webflow :** Merupakan Website kami yang merupakan pindahan dari Situs lamanya di Google Sites. Inzaghi's Sites Webflow diluncurkan pada Tanggal 25 Juli 2023 (7 Muharram 1445 H).\
+  Link :[inzaghis-sites.webflow.io](https://inzaghis-sites.webflow.io)
 3. Inzaghi's Media
 
 ![Inzaghi's Media with Collaborator Platforms](/images/inzaghis-media-with-collabolator-platforms.png)
