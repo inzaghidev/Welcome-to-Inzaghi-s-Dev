@@ -43,7 +43,7 @@ Inzaghi's Sites merupakan Platform Layanan Situs Web untuk dapat diakses ke semu
 * **WordPress :** Merupakan Pindahan dari sebagian Konten yang ada di Website kami yang lama di Google Sites. Dikarenakan WordPress banyak Fitur yang tidak bisa digunakan dengan Akun Gratis, Website kami di WordPress hanya untuk Arsip-arsip Artikel dan Blog saja. Dibuat sejak Tanggal 4 Juli 2023 (15 Dzulhijjah 1444 H).\
   Link : [inzaghiposuma.wordpress.com](https://inzaghiposuma.wordpress.com)
 * **Webflow :** Merupakan Website kami yang merupakan pindahan dari Situs lamanya di Google Sites. Inzaghi's Sites Webflow diluncurkan pada Tanggal 25 Juli 2023 (7 Muharram 1445 H).\
-  Link : [inzaghis-sites.webflow.io](https://inzaghis-sites.webflow.io)
+  Link : [inzaghis-sites.webflow.io](https://inzaghi-site.webflow.io)
 3. Inzaghi's Media
 
 ![Inzaghi's Media with Collaborator Platforms](/images/inzaghis-media-with-collabolator-platforms.png)
