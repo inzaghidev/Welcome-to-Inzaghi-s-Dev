@@ -61,6 +61,19 @@ Inzaghi's Media merupakan Platform Layanan untuk Sharing Ilmu, terutama seputar 
 * **X (Twitter) :** Sebagai Postingan berbentuk Infografis, hingga Postingan-postingan dari Inzaghi's Blog, dan dibuat pada Tanggal 4 Agustus 2023 (17 Muharram 1445 H).\
   Akun : [@iposhaf2917](https://twitter.com/iposhaf2917)
 
+4. Inzaghi's Apps
+
+![Inzaghi's Apps with Collaborator Platforms](/images/inzaghis-apps-with-collabolator-platforms.png)
+
+Inzaghi's App merupakan Aplikasi Konten-konten yang menyajikan apapun dengan Tampilan Versi Mobile dari Inzaghi's Sites, seperti Inzaghi's Blog, Inzaghi's Media, dan Inzaghi's Group. Dulunya, Inzaghi's App juga berawal dari Inzaghi's Sites dan kemudian terpisah menjadi Layanan sendiri. Inzaghi's App kemungkinan akan diluncurkan pada Tahun 2024 mendatang, dan mungkin saja Paling Lambat selesai pada Tahun 2025 mendatang, dan akan tersedia di Google Play Store (Hanya Android saja). Dan kemungkinan saja, Inzaghi's Apps akan dikembangkan dengan menggunakan Flutter dan berbahasa Dart.
+
+5. Inzaghi's Archives
+
+![Inzaghi's Archives with Collaborator Platforms](/images/inzaghis-archives-with-collabolator-platforms.png)
+
+Inzaghi's Archives merupakan Pengarsipan File-file dalam bentuk Dokumen seperti Dokumen/Word (.doc), Excel (.xls), PowerPoint/Slide/Presentasi/PPT (.ppt), PDF (.pdf), dan File berbentuk Zip (.zip dan .rar). File-file Dokumen yang disimpan di Inzaghi's Archives untuk ditampilkan beberapa Layanan seperti Inzaghi's Blog dan Inzaghi's Sites. Inzaghi's Archives sendiri kemungkinan akan diluncurkan pada Desember 2023 mendatang. Inzaghi's Archives sendiri tidak memiliki Platform untuk Visualisasi, kecuali menggunakan Google Drive dan dihubungkan langsung ke Inzaghi's Sites dan Inzaghi's Blog.
+\
+
 Untuk Inzaghi's Group sendiri, kami juga memiliki Linktree berikut ini :
 [inzaghigroup](https://linktr.ee/inzaghigroup)
 \
