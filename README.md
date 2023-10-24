@@ -63,7 +63,7 @@ Inzaghi's Media merupakan Platform Layanan untuk Sharing Ilmu, terutama seputar 
 
 4. Inzaghi's App
 
-![Inzaghi's App with Collaborator Platforms](/images/inzaghis-apps-with-collabolator-platforms.png)
+![Inzaghi's App with Collaborator Platforms](/images/inzaghis-app-with-collabolator-platforms.png)
 
 Inzaghi's App merupakan Aplikasi Konten-konten yang menyajikan apapun dengan Tampilan Versi Mobile dari Inzaghi's Sites, seperti Inzaghi's Blog, Inzaghi's Media, dan Inzaghi's Group. Dulunya, Inzaghi's App juga berawal dari Inzaghi's Sites dan kemudian terpisah menjadi Layanan sendiri. Inzaghi's App kemungkinan akan diluncurkan pada Tahun 2024 mendatang, dan mungkin saja Paling Lambat selesai pada Tahun 2025 mendatang, dan akan tersedia di Google Play Store (Hanya Android saja). Dan kemungkinan saja, Inzaghi's Apps akan dikembangkan dengan menggunakan Flutter dan berbahasa Dart.
 
