@@ -77,10 +77,11 @@ Inzaghi's Archives merupakan Pengarsipan File-file dalam bentuk Dokumen seperti 
 
 ![Inzaghi's AI with Collaborator Platforms](/images/inzaghis-ai-with-collabolator-platforms.png)
 
-Lorem ipsum dolor sit amet.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 Untuk Inzaghi's Group sendiri, kami juga memiliki Linktree berikut ini :
 [inzaghigroup](https://linktr.ee/inzaghigroup)
+\
 Dan juga memiliki Blog khusus di Medium :
 [Medium.com/@izzumiposhaf29](https://medium.com/@izzumiposhaf29)
 \
