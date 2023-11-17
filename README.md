@@ -77,6 +77,8 @@ Inzaghi's Archives merupakan Pengarsipan File-file dalam bentuk Dokumen seperti 
 
 ![Inzaghi's AI with Collaborator Platforms](/images/inzaghis-ai-with-collabolator-platforms.png)
 
+Inzaghi's AI merupakan Platform berbasis AI yang akan tersedia di Inzaghi's Sites (Web) dan Inzaghi's App (Mobile) pada Tahun 2024 depan. Inzaghi's AI juga menyediakan Chatbot AI seperti ChatGPT, Image Generator berbasis AI, hingga Aplikasi lainnya yang berbasis AI dan menggunakan API Key-nya OpenAI.
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 Untuk Inzaghi's Group sendiri, kami juga memiliki Linktree berikut ini :
