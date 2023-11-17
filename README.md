@@ -73,8 +73,15 @@ Inzaghi's App merupakan Aplikasi Konten-konten yang menyajikan apapun dengan Tam
 
 Inzaghi's Archives merupakan Pengarsipan File-file dalam bentuk Dokumen seperti Dokumen/Word (.doc), Excel (.xls), PowerPoint/Slide/Presentasi/PPT (.ppt), PDF (.pdf), dan File berbentuk Zip (.zip dan .rar). File-file Dokumen yang disimpan di Inzaghi's Archives untuk ditampilkan beberapa Layanan seperti Inzaghi's Blog dan Inzaghi's Sites. Inzaghi's Archives sendiri kemungkinan akan diluncurkan pada Desember 2023 mendatang. Inzaghi's Archives sendiri tidak memiliki Platform untuk Visualisasi, kecuali menggunakan Google Drive dan dihubungkan langsung ke Inzaghi's Sites dan Inzaghi's Blog.
 
+6. Inzaghi's AI
+
+![Inzaghi's AI with Collaborator Platforms](/images/inzaghis-ai-with-collabolator-platforms.png)
+
+Lorem ipsum dolor sit amet.
 
 Untuk Inzaghi's Group sendiri, kami juga memiliki Linktree berikut ini :
 [inzaghigroup](https://linktr.ee/inzaghigroup)
+Dan juga memiliki Blog khusus di Medium :
+[Medium.com/@izzumiposhaf29](https://medium.com/@izzumiposhaf29)
 \
 .
