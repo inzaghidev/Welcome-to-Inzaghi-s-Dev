@@ -1,4 +1,4 @@
-# Welcome-to-Inzaghi-s-Dev
+# Welcome to Inzaghi's Dev
 Welcome to Inzaghi's Dev! The Git Project Control System from Inzaghi's Group.
 
 ![Inzaghi's Dev](/images/inzaghis-dev-by-inzaghis-group-corp.png)
