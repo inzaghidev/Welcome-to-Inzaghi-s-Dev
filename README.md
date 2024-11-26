@@ -58,8 +58,10 @@ Inzaghi's Media merupakan Platform Layanan untuk Sharing Ilmu, terutama seputar 
   Akun : [@enzapostmedia](https://www.tiktok.com/@enzapostmedia)
 * **YouTube :** Sebagai sebuah Channel yang berbentuk Video seperti Tutorial, dan dibuat pada Tanggal 11 Juli 2023 (22 Dzulhijjah 1444 H).\
   Akun : [Inzaghi's Media](https://www.youtube.com/@enzavlogpost)
-* **X (Twitter) :** Sebagai Postingan berbentuk Infografis, hingga Postingan-postingan dari Inzaghi's Blog, dan dibuat pada Tanggal 4 Agustus 2023 (17 Muharram 1445 H).\
-  Akun : [@iposhaf2917](https://twitter.com/iposhaf2917)
+* **X (Twitter) :** Sebagai Postingan berbentuk Infografis, Tweet, hingga Postingan-postingan dari Inzaghi's Blog, dan dibuat pada Tanggal 19 Oktober 2024 (16 Rabi'ul Akhir 1446 H).\
+  Akun : [@InzaTechMedia](https://x.com/InzaTechMedia)
+* **Threads :** Sama seperti di X, Sebagai Postingan berbentuk Infografis, Tulisan, hingga Postingan-postingan dari Inzaghi's Blog, dan dibuat bersamaan dengan Akun Instagram kami.\
+  Akun : [@enzapost](https://www.threads.net/@enzapost)
 
 4. Inzaghi's App
 
